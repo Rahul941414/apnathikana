@@ -122,6 +122,9 @@ const Footer = () => {
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="/privacy" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">Privacy Policy</a>
             <a href="/terms" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">Terms & Conditions</a>
+            <a class="hover:text-indigo-600" href="/refund-cancellation" data-discover="true">Refunds &amp; Cancellation</a>
+            <a class="hover:text-indigo-600" href="/refund-policy" data-discover="true">Refund Policy</a>
+            <a class="hover:text-indigo-600" href="/cancellation-policy" data-discover="true">Cancellation Policy</a>
             <a href="/privacy#cookies" className="text-gray-400 hover:text-amber-400 text-sm transition-colors">Cookie Policy</a>
           </div>
         </div>

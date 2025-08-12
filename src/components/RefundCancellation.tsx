@@ -47,7 +47,7 @@ export default function RefundCancellation() {
         <p>Please contact us before raising a chargeback. Unfounded chargebacks may lead to account action.</p>
 
         <h2>8) Contact</h2>
-        <p>For any refund/cancellation query: +91-90000-90000 | support@apnathikana.com</p>
+        <p>For any refund/cancellation query: +91-8504980705 | support@apnathikana.com</p>
       </div>
     </div>
   );

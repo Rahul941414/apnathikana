@@ -76,8 +76,8 @@ export default function Privacy() {
 
         <h2>11) Contact & Grievance Officer</h2>
         <p>
-          Email: <a href="mailto:support@apnathikana.com">support@apnathikana.com</a><br/>
-          Phone: +91-90000-90000<br/>
+          Email: <a href="mailto:support@apnathikana.com">support@apnathikana.com</a><br />
+          Phone: +91-8504980705<br />
           Address: Apna Thikana, India
         </p>
       </div>

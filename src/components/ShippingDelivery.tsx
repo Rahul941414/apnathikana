@@ -12,7 +12,7 @@ export default function ShippingDelivery() {
 
         <h2>Timelines</h2>
         <ul>
-          <li>Standard deliveries: typically 2–7 business days (location dependent).</li>
+          <li>Standard deliveries: typically 1–2 business days (location dependent).</li>
           <li>Delays may occur due to weather, strikes, or other force majeure events.</li>
         </ul>
 
@@ -26,7 +26,7 @@ export default function ShippingDelivery() {
         </ul>
 
         <h2>Contact</h2>
-        <p>Support: +91-90000-90000 | support@apnathikana.com</p>
+        <p>Support: +91-8504980705 | support@apnathikana.com</p>
       </div>
     </div>
   );
